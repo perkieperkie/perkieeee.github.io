@@ -1,19 +1,19 @@
 body {
-    background: #eee;
+    background: #254D2A;
 }
 a {
-    color: #ed5b5b;
+    color: #005E04;
 }
 a:hover,
 a:focus {
-    color: #ed5b5b;
+    color: #005E04;
 }
 h1 {
     font-family: 'Satisfy', cursive;
     font-size: 100px;
     text-align: center;
-    color: #bd2929;
-    margin: 50px;
+    color: #F5F6E9;
+    margin: 100px;
 }
 h2 {
     font-family: 'Satisfy', cursive;
@@ -24,13 +24,13 @@ h2 {
 h3 {
     font-family: 'Open Sans', sans-serif;
     font-size: 55px;
-    color: #a09e9e;
+    color: #005E04;
     margin-bottom: 20px;
 }
 h4 {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    color: #a09e9e;
+    color: #005E04;
     margin-bottom: 10px;
 }
 p {
