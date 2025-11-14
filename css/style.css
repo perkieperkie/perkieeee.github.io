@@ -45,14 +45,16 @@ hr {
 }
 #about {
     min-height: 130px;
-    background: #434242;
+    background: #005E04;
     padding: 25px;
+	margin: 100px;
+	
 }
-.btn-red {
-    background-color: #bd2929;
+.btn-green {
+    background-color: #254D2A;
 }
-.btn-red a:link {
-    color: #fff;
+.btn-green a:link {
+    color: #005E04;
 }
 .btn-red a:hover {
     color: #ed5b5b;
